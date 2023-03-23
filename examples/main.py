@@ -1,4 +1,4 @@
-from kingback.kingback import (
+from kingback import (
     PriceData,
     FeatureData,
     Strategy,
