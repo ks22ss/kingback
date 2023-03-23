@@ -1,7 +1,7 @@
 import pandas as pd
 import unittest
 from datetime import datetime
-from kingback.King import PriceData, FeatureData, Strategy
+from kingback.kingback import PriceData, FeatureData, Strategy
 
 
 class TestPriceData(unittest.TestCase):
