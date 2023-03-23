@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kingback",
-    version="1.0.0",
+    version="1.0.1",
     author="Kingson Wong",
     author_email="kingson22.work@email.com",
     description="Python Backtesting farmework for everyone",
